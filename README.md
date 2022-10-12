@@ -3,15 +3,21 @@
 
 # About Me ...  <a href="#">![streamlinehq-no-connection-5-interface-400](https://user-images.githubusercontent.com/105555666/195209989-b42b71d9-a766-479c-a83e-7b8e7e121304.PNG) </a> 
 
-*  I a Developer,Self and quick learner.👩🏼‍💻
--  I looking to collaborate on to collaborate on open source.
--  Fun fact:I love Painting 🎨, programming 💻, Music 🎹, data science and books.🚀
-<h4> I currently learning 💻📖</h4>
-<h5>I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.</h5>
+- I a Developer,Self and quick learner.👩🏼‍💻
+- I looking to collaborate on to collaborate on open source.
+- Fun fact:I love Painting 🎨, programming 💻, Music 🎹, data science and books.🚀
+<h4> I currently learning 💻📖
+I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.</h4>
 
-
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
 [![Typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-
+ <br>
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+<img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
+<img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
 -  How to reach me ...
  
