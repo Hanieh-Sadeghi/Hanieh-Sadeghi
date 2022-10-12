@@ -30,7 +30,6 @@
                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
       
 </table>
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   
 ## 🙋🏼‍♀️ Connect with me : <img src="gifs/handshake.gif" alt="hand shake" width="45px"/>
 [<img src="https://img.icons8.com/doodle/344/gmail.png" alt="gmail" width="40px"/>](http://Banafshe.Sadeghi@cscore.io)
