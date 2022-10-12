@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there, I'm Hanieh - aka Banafsheh 🦖<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1> 
+<h2 align="center">Hey there, I'm Hanieh - aka Banafsheh 🦖<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h2> 
 
 # About Me ...  <a href="#">![streamlinehq-no-connection-5-interface-400](https://user-images.githubusercontent.com/105555666/195209989-b42b71d9-a766-479c-a83e-7b8e7e121304.PNG) </a> 
 
@@ -28,11 +28,10 @@
             </td>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-       
-          </tbody>
+      
 </table>
-
-## 🙋🏼‍♀️ Connect with me:<img src="gifs/handshake.gif" alt="hand shake" width="45px"/>
+  
+## 🙋🏼‍♀️ Connect with me: <img src="gifs/handshake.gif" alt="hand shake" width="45px"/>
 [<img src="https://img.icons8.com/doodle/344/gmail.png" alt="gmail" width="40px"/>](http://Banafshe.Sadeghi@cscore.io)
 [<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="linkedin" width="40px"/>](https://www.linkedin.com/in/banafsheh-sadeghi-750a9023a/)
 [<img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="github" width="40px"/>](https://github.com/banfshesadeghi)
