@@ -7,6 +7,7 @@
 - I looking to collaborate on to collaborate on open source.
 - Fun fact:I love Painting 🎨, programming 💻, Music 🎹, data science and books.🚀
 - Future Goals: Learn more technologies - Never stop creating new ideas.🦾
+*I love Linux 🐧🤍
 <h4> currently learning 💻📖</h4>
  I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
