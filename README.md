@@ -3,14 +3,13 @@
 
 # About Me ... 🦖 <a href="#">![streamlinehq-no-connection-5-interface-400](https://user-images.githubusercontent.com/105555666/195209989-b42b71d9-a766-479c-a83e-7b8e7e121304.PNG) </a> 
 
-  
+*  I a Developer,Self and quick learner
 *  I love Painting , programming , Music , data science and books. 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 -
 
-
-<h4>I’m currently learning 💻📖</h4>
+<h5> - I currently learning 💻📖</h5>
 I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
  
  
