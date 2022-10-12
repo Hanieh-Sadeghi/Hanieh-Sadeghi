@@ -3,14 +3,14 @@
 
 # About Me ...  <a href="#">![streamlinehq-no-connection-5-interface-400](https://user-images.githubusercontent.com/105555666/195209989-b42b71d9-a766-479c-a83e-7b8e7e121304.PNG) </a> 
 
-* I a Developer,Self and quick learner.👩🏼‍💻
+- I a Developer,Self and quick learner.👩🏼‍💻
 - I looking to collaborate on to collaborate on open source.
 - Fun fact:I love Painting 🎨, programming 💻, Music 🎹, data science and books.🚀
 - Future Goals: Learn more technologies - Never stop creating new ideas.🦾
 <h4> currently learning 💻📖</h4>
  I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
- ## Languages and Tools: 🤖
+ ## 🤖 Languages and Tools : 
  <table>
     <tbody>
         <tr>
@@ -31,7 +31,7 @@
       
 </table>
   
-## 🙋🏼‍♀️ Connect with me: <img src="gifs/handshake.gif" alt="hand shake" width="45px"/>
+## 🙋🏼‍♀️ Connect with me : <img src="gifs/handshake.gif" alt="hand shake" width="45px"/>
 [<img src="https://img.icons8.com/doodle/344/gmail.png" alt="gmail" width="40px"/>](http://Banafshe.Sadeghi@cscore.io)
 [<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="linkedin" width="40px"/>](https://www.linkedin.com/in/banafsheh-sadeghi-750a9023a/)
 [<img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="github" width="40px"/>](https://github.com/banfshesadeghi)
