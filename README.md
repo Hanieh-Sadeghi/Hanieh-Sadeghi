@@ -6,23 +6,36 @@
 - I a Developer,Self and quick learner.👩🏼‍💻
 - I looking to collaborate on to collaborate on open source.
 - Fun fact:I love Painting 🎨, programming 💻, Music 🎹, data science and books.🚀
-<h4> I currently learning 💻📖
- <br>
-I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.</h4>
+- Future Goals: Learn more technologies - Never stop creating new ideas.🦾
+- 
+<h4> currently learning 💻📖</h4>
+ I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
-   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
-   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-   <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-   <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
-   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-[![Typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+ ## Languages and Tools: 🤖
+ <table>
+    <tbody>
+        <tr>
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+            </td>
+            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+            </td>
+            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            </td>
+           <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
+                        src="https://i.imgur.com/DZgetVv.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
+                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
+          </tbody>
+</table>
 
--  How to reach me ...
+
+## 🙋🏼‍♀️ Connect with me:
  
- 
-
+<a href="https://twitter.com/sadeghiiw_"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 
 
