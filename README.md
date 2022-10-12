@@ -1,5 +1,5 @@
 
-<h2 align="center">Hey there, I'm Hanieh - aka Banafsheh 🦖<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h2> 
+<h2 align="40px">Hey there, I'm Hanieh - aka Banafsheh 🦖<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h2> 
 
 # About Me ...  <a href="#">![streamlinehq-no-connection-5-interface-400](https://user-images.githubusercontent.com/105555666/195209989-b42b71d9-a766-479c-a83e-7b8e7e121304.PNG) </a> 
 
