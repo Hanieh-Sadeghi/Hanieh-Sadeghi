@@ -7,17 +7,17 @@
 - I looking to collaborate on to collaborate on open source.
 - Fun fact:I love Painting 🎨, programming 💻, Music 🎹, data science and books.🚀
 <h4> I currently learning 💻📖
+ <br>
 I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.</h4>
 
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
+   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
+   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+   <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
+   <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
+   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 [![Typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
- <br>
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-<img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-<img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
 -  How to reach me ...
  
