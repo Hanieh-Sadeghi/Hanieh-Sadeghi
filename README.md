@@ -3,12 +3,15 @@
 
 # About Me ...  <a href="#">![streamlinehq-no-connection-5-interface-400](https://user-images.githubusercontent.com/105555666/195209989-b42b71d9-a766-479c-a83e-7b8e7e121304.PNG) </a> 
 
-- I a Developer,Self and quick learner.👩🏼‍💻
-- I looking to collaborate on to collaborate on open source.
-- Fun fact : I love Linux 🐧, CEH 🤍, Painting 🎨, programming 💻, Music 🎹, data science and books.🚀
-- Future Goals: Learn more technologies - Never stop creating new ideas.🦾
+- I am a developer, a self and quick learner..👩🏼‍💻
+- I am looking to collaborate on open source projects..
+- Fun fact: I love the Linux penguin, CEH (Certified Ethical Hacker) white heart, painting art, programming computers, playing music on a 
+  musical keyboard, exploring data science, and reading books..🚀
+  -  My future goals include learning more technologies and never stopping the creation of new ideas. I am currently learning about computer 
+  books.
+
 <h4> currently learning 💻📖</h4>
- I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
+I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer. I bring my troubleshooting skills to engineer responsive solutions and collaborate with like-minded peers.
 
  ## 🤖 Languages and Tools : 
  <table>
