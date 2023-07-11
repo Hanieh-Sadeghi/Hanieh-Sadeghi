@@ -7,7 +7,7 @@
 - I am looking to collaborate on open source projects..
 - Fun fact: I love the Linux penguin, CEH (Certified Ethical Hacker) white heart, painting art, programming computers, playing music on a 
   musical keyboard, exploring data science, and reading books..🚀
-  -  My future goals include learning more technologies and never stopping the creation of new ideas. I am currently learning about computer 
+-  My future goals include learning more technologies and never stopping the creation of new ideas. I am currently learning about computer 
   books.
 
 <h4> currently learning 💻📖</h4>
