@@ -3,10 +3,10 @@
 
 # About Me ...  <a href="#">![streamlinehq-no-connection-5-interface-400](https://user-images.githubusercontent.com/105555666/195209989-b42b71d9-a766-479c-a83e-7b8e7e121304.PNG) </a> 
 
-- I am a developer, a self and quick learner..👩🏼‍💻
+- I am a developer, a self and quick learner..
 - I am looking to collaborate on open source projects..
-- Fun fact: I love the Linux penguin, CEH (Certified Ethical Hacker) white heart, painting art, programming computers, playing music on a 
-  musical keyboard, exploring data science, and reading books..🚀
+- Fun fact: I love the Linux , CEH (Certified Ethical Hacker) , painting , programming , playing music 
+, exploring data science, and reading books..🚀
 -  My future goals include learning more technologies and never stopping the creation of new ideas. I am currently learning about computer 
   books.
 
