@@ -1,8 +1,9 @@
 
-<h2 align="30px">Hey there, I'm Hanieh 🦖<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h2> 
+<h2 align="30px">Hey there, I'm Hanieh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h2> 
 
-<h4> currently learning 💻📖</h4>
+<h4> currently learning 💻</h4>
 I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer. I bring my troubleshooting skills to engineer responsive solutions and collaborate with like-minded peers.
+
 ## 🙋🏼‍♀️ Connect with me : <img src="gifs/handshake.gif" alt="hand shake" width="45px"/>
 [<img src="https://img.icons8.com/doodle/344/gmail.png" alt="gmail" width="40px"/>](Hanieh.Sadeghi@cscore.io)
 [<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="linkedin" width="40px"/>](https://www.linkedin.com/in/hanieh-sadeghi-750a9023a/)
